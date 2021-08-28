@@ -17,5 +17,3 @@ La clase a utilizar es login.class, esta cuenta con:
 Todos estos estan bien documentados para su facil implementacion. Además, en la clase prueba, estan escrito dentro de comentarios algunos ejemplos de uso para poder 
 orientarse con mas facilidad.
 
-El proyecto seguirá actualizandose.
-mauroalderete.10@gmail.com-
